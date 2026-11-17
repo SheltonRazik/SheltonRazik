@@ -14,7 +14,7 @@ I grew up in China, Thailand, and Indonesia prior to moving to the US to pursue 
 | [auth-log-threat-detection](https://github.com/SheltonRazik/auth-log-threat-detection) | Finding brute force, password spraying, credential stuffing, and account takeover in login logs with SQL rules and an anomaly model | SQL, scikit-learn |
 | [demand-forecast-inventory](https://github.com/SheltonRazik/demand-forecast-inventory) | Weekly demand forecasts for 160 product and branch combinations, turned into stocking decisions. Same fill rate with about 25% less stock | Python, scikit-learn |
 | [expat-retirement-simulator](https://github.com/SheltonRazik/expat-retirement-simulator) | Monte Carlo retirement model for people who work abroad, with currency risk and contract gaps. Includes a Streamlit app | Python, NumPy, Streamlit |
-| [rugby-analytics](https://github.com/SheltonRazik/rugby-analytics) | 150 years of international rugby results | Python, pandas |
+
 
 Each project has tests, a seeded data generator where the data is synthetic, and a README that says what worked and what didn't.
 
